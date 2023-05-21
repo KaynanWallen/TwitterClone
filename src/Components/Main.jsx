@@ -1,6 +1,6 @@
 import React from 'react'
 
-import Menu from '../assets/Menu.png'
+import Menu from '../assets/menu.png'
 import Comment from '../assets/Comment.svg'
 import Retweet from '../assets/Retweet.svg'
 import Like from '../assets/Like.svg'
